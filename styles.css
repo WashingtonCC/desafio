@@ -2,10 +2,10 @@ body {
   background-color: rgb(255, 255, 165);
 }
 
-.image {
-  border: 5px solid green;
-  border-radius: 10px;
-  height: 400px;
+.image{
+    border: 5px solid black;
+    border-radius: 7px;
+    height: 400px;
   width: 80vw;
   display: block;
   margin: auto;
