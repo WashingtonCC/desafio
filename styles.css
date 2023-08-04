@@ -17,3 +17,8 @@ body {
     border-radius: 5px;
     box-shadow: 2px 3px #888888;
 }
+.tex{
+    margin-left: 25%;
+    margin-right: 25%;
+    text-align: center;
+}
