@@ -16,6 +16,14 @@ body {
     color: black;
     border: 2.2px solid #a0a0a0;
     background-color: #f2f2f2;
+    padding: 5px;
+    border-radius: 5px;
+    box-shadow: 2px 3px #888888;
+}
+.tex{
+    margin-left: 25%;
+    margin-right: 25%;
+    text-align: center;
     padding: 7px 13px;
 }
 
