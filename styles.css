@@ -8,7 +8,7 @@ body {
     height: 400px;
 }
 
-.link-button {
+/* .link-button {
     text-decoration: none;
     color: black;
     border: 1px solid gray;
@@ -16,4 +16,16 @@ body {
     padding: 5px;
     border-radius: 5px;
     box-shadow: 2px 3px #888888;
+} */
+
+.link-button {
+    text-decoration: none;
+    color: black;
+    border: 2.2px solid #a0a0a0;
+    background-color: #f2f2f2;
+    padding: 7px 13px;
 }
+
+.link-button:hover {
+    background-color: #bfbfbf;
+  }
