@@ -1,20 +1,33 @@
 body {
-    background-color: rgb(255, 255, 165);
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serifs;
+    background-color: red;
 }
 
 .image{
-    border: 5px solid green;
-    border-radius: 10px;
+    border: 5px solid black;
+    border-radius: 7px;
     height: 400px;
+  width: 80vw;
+  display: block;
+  margin: auto;
 }
 
 .link-button {
     text-decoration: none;
     color: black;
-    border: 1px solid gray;
+    border: 2.2px solid #a0a0a0;
     background-color: #f2f2f2;
     padding: 5px;
     border-radius: 5px;
     box-shadow: 2px 3px #888888;
 }
+.tex{
+    margin-left: 25%;
+    margin-right: 25%;
+    text-align: center;
+    padding: 7px 13px;
+}
+
+.link-button:hover {
+    background-color: #bfbfbf;
+  }
